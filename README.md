@@ -23,8 +23,8 @@ method of operation:
 
 Second Task:
 
-# I changed all 'http://0.0.0.0:8000' to 'http://localhost:8000' because python
-# creating the http.server displays all pages under the address localhost: 8000
+!I changed all 'http://0.0.0.0:8000' to 'http://localhost:8000' because python
+!creating the http.server displays all pages under the address localhost: 8000
 
 Variables:
 
