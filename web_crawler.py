@@ -19,7 +19,6 @@ import re
 map = {}
 domain_url = 'http://localhost:8000'
 
-
 def site_map(url):
     """Function return a dictionary with URL:{site_title: Title,
     links: set of all target URLs}"""
