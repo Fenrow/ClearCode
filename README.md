@@ -7,6 +7,7 @@ First Task:
 Variables:
 
 filename - name of CSV file with data to generate raport. default: 'filename.csv'
+
 raport_filename - name of CSV file with generated data. default: 'raport.csv'
 
 method of operation:
@@ -23,11 +24,12 @@ method of operation:
 
 Second Task:
 
-!I changed all 'http://0.0.0.0:8000' to 'http://localhost:8000' because python creating the http.server displays all pages under the address localhost: 8000
+I changed all 'http://0.0.0.0:8000' to 'http://localhost:8000' because python creating the http.server displays all pages under the address localhost: 8000
 
 Variables:
 
 map it is a dictionary for all links creating a site map
+
 domain_url is a url of site we want to map
 
 method of operation:
